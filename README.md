@@ -1,2 +1,6 @@
-# Game-Snake
-**Snake Game Description**    **Snake** is a classic, simple yet challenging game that first gained popularity in the late 1990s, particularly on Nokia phones. Players control a snake that moves across the screen, with the primary goal of guiding it to eat "food" (usually represented as dots or fruit)
+## Snake (the game itself)
+
+Snake is a game in which a snake needs to explore an environment and catch the fruit without hitting any obstacle or itself. Every time the snake catches a fruit, its size increases.
+
+- [Coding "Snake" in 4 min 30 sec](https://www.youtube.com/watch?v=xGmXxpIj6vs)
+- [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) (not really about Snake itself, but a pattern I tried to follow on the project)
